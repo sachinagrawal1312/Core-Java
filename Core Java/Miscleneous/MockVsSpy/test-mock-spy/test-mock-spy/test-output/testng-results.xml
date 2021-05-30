@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="466" started-at="2016-07-02T19:34:15Z" finished-at="2016-07-02T19:34:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="466" started-at="2016-07-02T19:34:15Z" finished-at="2016-07-02T19:34:16Z">
+      <class name="com.javainuse.service.EmployeePaymentServiceTest_MockCallRealMethod">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.javainuse.service.EmployeePaymentServiceTest_MockCallRealMethod@2d6a9952]" name="beforeMethod" is-config="true" duration-ms="364" started-at="2016-07-03T01:04:15Z" finished-at="2016-07-03T01:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testGetSalary()[pri:0, instance:com.javainuse.service.EmployeePaymentServiceTest_MockCallRealMethod@2d6a9952]" name="testGetSalary" duration-ms="77" started-at="2016-07-03T01:04:16Z" finished-at="2016-07-03T01:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSalary -->
+      </class> <!-- com.javainuse.service.EmployeePaymentServiceTest_MockCallRealMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
